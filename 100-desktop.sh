@@ -1,5 +1,6 @@
 #!/bin/bash
 #Just a test script for min,.
+#More comments for testing.
 
 
 ###############################################################################
