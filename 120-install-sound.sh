@@ -39,11 +39,11 @@ pavucontrol
 #alsa-lib
 #alsa-plugins
 #alsa-utils
-gstreamer
-gst-plugins-good
-gst-plugins-bad
-gst-plugins-base
-gst-plugins-ugly
+#gstreamer
+#gst-plugins-good
+#gst-plugins-bad
+#gst-plugins-base
+#gst-plugins-ugly
 playerctl
 volumeicon
 )
